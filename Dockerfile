@@ -1,5 +1,5 @@
 # Build
-FROM ubuntu:16.04 as builder
+FROM ubuntu:16.04 A builder
 
 WORKDIR /
 
